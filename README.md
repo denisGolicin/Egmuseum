@@ -15,7 +15,7 @@
   
   | Задача                 |      Язык      |  Среда       |   Фреймворк   |   Источник
   |------------------------|:--------------:|-------------:|---------------:|--------------:|
-  |  Обёртка               |  C#            |  MVS Studio  | .NET Framework | [webview2](https://learn.microsoft.com/ru-ru/microsoft-edge/webview2/get-started/winforms) |
+  |  Обёртка               |  C#            |  MVS         | .NET Framework | [webview2](https://learn.microsoft.com/ru-ru/microsoft-edge/webview2/get-started/winforms) |
   |  Обёртка               |  Python        |  -           | -              | [pywebview](https://pypi.org/project/pywebview/)                                           |
   |  Сервер(host)          |  PHP           |  -           | -              | -
   |  Сервер(local)         |  Python        |  -           | Flask          | [pypi](https://pypi.org/project/Flask/)     |
